@@ -1,0 +1,53 @@
+# Metadata for Singapore's Direct Investment Abroad (Stock As At Year-End), Annual
+---
+Identifier: '1ff5462c-b1a3-4d86-823f-577e0283590d'
+Name: 'singapore-s-direct-investment-abroad-stock-as-at-year-end-annual'
+Title: 'Singapore''s Direct Investment Abroad (Stock As At Year-End), Annual'
+Description: 'Singapore''s Direct Investment Abroad (DIA) refers to an investment
+  where a Singapore direct investor owns 10 per cent or more of the ordinary shares
+  or voting power in an overseas enterprise. Data are compiled from the Survey of
+  Singapore''s Investment Abroad. They may be subsequently revised when new data becomes
+  available.'
+Topics:
+  - 'Economy'
+Keywords:
+  - 'DIA'
+  - 'Equity'
+  - 'Singapore Direct Investment Abroad'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'Singstat Info'
+    Department: 'SIS'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'https://tablebuilder.singstat.gov.sg/table/TS/M082221'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2023-01-01 to 2023-02-17'
+Last Updated: '2023-02-17T11:04:59.878058'
+Resources:
+  -
+    Identifier: '2169acb4-c202-4b1d-9d8a-04c2f02a8152'
+    Title: 'note'
+    Url: 'https://storage.data.gov.sg/singapore-s-direct-investment-abroad-stock-as-at-year-end-annual/resources/note-2023-02-17T10-55-32Z.csv'
+    Format: 'CSV'
+    Coverage: '2023-01-01 to 2023-02-17'
+    Last Updated: '2023-02-17T10:55:32.263193'
+    Schema:
+      -
+        Name: 'refyear'
+        Title: 'Reference Year'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_1'
+        Title: 'Message'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'url'
+        Title: 'URL'
+        Type: 'text'
+        Sub Type: 'general'
